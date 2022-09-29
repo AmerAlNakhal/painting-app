@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251588059837",
+    "project_id": "paintingapp-a74af",
+    "storage_bucket": "paintingapp-a74af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251588059837:android:00d020edeadde6d8c74dd4",
+        "android_client_info": {
+          "package_name": "com.example.painting.painting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251588059837-4d6kmppe7abqnpjl12cnmpgmq4la3i58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIl2AIcWaDDUREfoWNtxnXRXBpL_uw-BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251588059837-4d6kmppe7abqnpjl12cnmpgmq4la3i58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
